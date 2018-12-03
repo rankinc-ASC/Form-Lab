@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  customerName: MyString
+  customerContact: MyString
+  numDays: 1
+  mileage: 1
+  returned: false
+  confirmCode: MyString
+
+two:
+  customerName: MyString
+  customerContact: MyString
+  numDays: 1
+  mileage: 1
+  returned: false
+  confirmCode: MyString
